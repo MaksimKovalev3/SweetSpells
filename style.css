@@ -49,7 +49,6 @@ nav a{
     border-radius: 10px;
     font-family: 'Arial', sans-serif;
     margin: 45px;
-    text-align: center;
     
 }
 
@@ -61,4 +60,29 @@ footer p{
 .propusk {
     padding: 0,5px;
 }
+
+nav {
+    text-align: center;
+}
+
+main img {
+    height: 150px;
+    text-align: center;
+    height: 150px;
+    border: 5px solid #d33232;
+}
+
+.propusk2 {
+    margin: 7px;
+}
+
+footer {
+background-color: #df3232;
+margin: 5px;
+}
+
+footer p{
+margin: 5px;
+}
+
 
