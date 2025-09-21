@@ -6,7 +6,7 @@ header h1, h2 {
 }
 
 body {
-     background-color: #db4f4f
+     background-color: #db4f4f;
 }
 
 header h2 {
@@ -85,4 +85,10 @@ footer p{
 margin: 5px;
 }
 
+table img {
+   height: 50px;
+   text-align: center;
+   border: none;
+   border-radius: 5px;
+}
 
